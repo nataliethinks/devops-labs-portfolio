@@ -19,3 +19,9 @@ End-to-end observability using metrics and logs for containerized workloads.
 - Metrics scraping and visualization
 - Centralized logging
 - Observability pipelines
+
+## Evidence
+Prometheus targets
+Prometheus targets
+Kibana Discover
+docker compose ps
