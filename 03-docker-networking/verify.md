@@ -1,4 +1,5 @@
-# Verification Commad and Web (when Docker is running)
+# Verification Commad and Web 
+# This lab was executed in a local Docker environment 
 
 ## Access web container
 - Open browser: http://localhost:8080
@@ -7,3 +8,4 @@
 ## Verify container-to-container networking
 ```bash
 docker exec -it alpine-container ping web-container
+
