@@ -1,4 +1,4 @@
-# Verification
+# Verification Commad and Web (when Docker is running)
 
 ## Access web container
 - Open browser: http://localhost:8080
